@@ -40,7 +40,7 @@
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
         }
         .btn-primary {
-             background-color: #09e823;
+             background-color: #df6dfa;
              border-color: #2980b9;
         }
         .btn-secondary {
